@@ -1,6 +1,3 @@
-import { nanoid } from 'nanoid';
-import { useState, useEffect } from 'react';
-
 import {
   Container,
   Grid,
