@@ -1,8 +1,6 @@
 # To do list
 
-Web-app "To do list".
-Allows to create and delete notes. Saves notes to locale storage.
-Team project.
+Web-app "To do list". Allows to create and delete notes. Saves notes to locale storage. Team project.
 
 ## Technologies
 
